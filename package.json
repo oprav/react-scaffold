@@ -1,0 +1,33 @@
+{
+  "name": "react-scaffold",
+  "version": "1.0.0",
+  "description": "Basic ReactJS app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oprav/react-scaffold.git"
+  },
+  "keywords": [
+    "react",
+    "react-router"
+  ],
+  "author": "oprav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oprav/react-scaffold/issues"
+  },
+  "homepage": "https://github.com/oprav/react-scaffold#readme",
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.23.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1"
+  }
+}
